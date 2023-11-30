@@ -13,5 +13,5 @@ mod HelloStarknet {
         let caller = get_caller_address();
         Hello(caller, message);
     }
-
+//new mod starknet
 }//can i be th efirst one to receive the drop?
