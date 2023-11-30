@@ -14,4 +14,4 @@ mod HelloStarknet {
         Hello(caller, message);
     }
 
-}
+}//can i be th efirst one to receive the drop?
